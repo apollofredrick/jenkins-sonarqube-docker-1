@@ -6,3 +6,4 @@ Jenkins is an amazing tool
 build failure again
 back to square one
 forgot to add webhook
+forgot to add webhook endpoint, im so dumb
